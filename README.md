@@ -17,7 +17,7 @@ This Power BI dashboard helps users understand and manage their personal finance
 
 ## 📁 Files Included
 - `personal_finance_dashboard.pbix` – Power BI report file
-- `finance_data.xlsx` – Sample data file
+- `raw_data.xlsx` – Sample data file
 
 ## 🔧 How to Use
 1. Open the `.pbix` file in Power BI Desktop
