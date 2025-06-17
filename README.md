@@ -24,6 +24,5 @@ This Power BI dashboard helps users understand and manage their personal finance
 2. Explore the visuals and interact with filters
 3. Customize the report using your own financial data
 
-## 👩‍💻 Author
-**Gayathri Gadepalli**
+
 
